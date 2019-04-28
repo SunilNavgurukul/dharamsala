@@ -11,4 +11,4 @@ Lunch & Break | 1:10 PM | 2:30 PM
 Tech Studies | 2:30 PM | 5:00 PM
 Break | 5:00 PM | 6:00 PM
 Tech Studies | 6:00PM | 9:00PM
-Dinner & Self Study | 9:00PM | end o
+Dinner & Self Study | 9:00PM | end
